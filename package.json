@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tactikerl/module2-activity/issues"
   },
-  "homepage": "https://github.com/Tactikerl/module2-activity#readme"
+  "homepage": "https://github.com/Tactikerl/module2-activity#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
